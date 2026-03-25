@@ -21,6 +21,10 @@ O notebook foi mantido com os outputs salvos para permitir a visualização da a
 
 Para executar o projeto do zero, será necessário adicionar manualmente o dataset original utilizado no notebook.
 
+## Objetivo do Projeto
+
+Desenvolver um modelo de visão computacional capaz de estimar a idade de clientes da rede Boa Semente a partir de imagens faciais, com foco em apoio a verificações etárias.
+
 ## Objetivos da Análise
 
 Este projeto busca responder perguntas como:
@@ -100,6 +104,8 @@ Entre os principais focos do projeto, estão:
 
 ## Resultados
 
+Demonstração da aplicação de deep learning em um problema de estimativa de idade por imagem. Preparação de dados visuais, estruturação de um pipeline de treinamento e avaliação do desempenho de um modelo de visão computacional em um contexto de negócio realista.
+
 O notebook inclui:
 
 * análise exploratória inicial
@@ -112,6 +118,23 @@ O notebook inclui:
 ## Conclusão
 
 Este projeto demonstra como técnicas de visão computacional e deep learning podem ser aplicadas para estimar idade com base em imagens faciais. A análise mostra o potencial de uso desse tipo de solução em contextos operacionais reais, especialmente como ferramenta de apoio à verificação etária e à automação de processos no varejo.
+
+## O que foi aprendido
+
+Desenvolvimento e consolidação de habilidades em:
+- manipulação e preparação de dados de imagem
+- construção de pipelines com deep learning
+- uso de arquiteturas pré-treinadas
+- avaliação de modelos de visão computacional
+- interpretação de resultados em aplicações de varejo
+
+## Melhorias Futuras
+
+Possibilidades de evolução do projeto:
+- testar arquiteturas adicionais de redes neurais
+- aplicar estratégias de data augmentation mais amplas
+- explorar ajustes mais detalhados de hiperparâmetros
+- avaliar métricas complementares e robustez do modelo
 
 ## Autor
 
